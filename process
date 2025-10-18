@@ -2,30 +2,28 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-  <title>My Game-Inspired Creative Dump</title>
-  <link rel="stylesheet" href="styles.css">
+    <title>My Game-Inspired Creative Dump</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <header class="site-header">
-    <h1>My Creative Hub</h1>
-    <nav>
-      <a href="#notes">Notes</a>
-      <a href="#gallery">Gallery</a>
-      <a href="#about">About</a>
-    </nav>
-  </header>
+    <header class="site-header">
+        <h1>My Creative Hub</h1>
+        <nav>
+            <a href="#notes">Notes</a>
+            <a href="#gallery">Gallery</a>
+            <a href="#about">About</a>
+        </nav>
+    </header>
 
-  <main>
-    <section id="notes">
-      <h2>Notes</h2>
-      <textarea id="noteInput" placeholder="Write something…"></textarea>
-      <button id="saveBtn">Save Note</button>
-      <ul id="noteList"></ul>
-    </section>
-  </main>
+    <main>
+        <section id="notes">
+            <h2>Notes</h2>
+            <textarea id="noteInput" placeholder="Write something…"></textarea>
+            <button id="saveBtn">Save Note</button>
+            <ul id="noteList"></ul>
+        </section>
+    </main>
 
-  <script src="script.js"></script>
+    <script src="script.js"></script>
 </body>
 </html>
-
-
