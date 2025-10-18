@@ -27,6 +27,8 @@
   <script src="script.js"></script>
 </body>
 </html>
+
+
 styles.css
 /* Basic reset & fonts */
 body {
